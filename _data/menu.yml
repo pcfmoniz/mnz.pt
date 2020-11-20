@@ -1,0 +1,39 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Escrita
+    url: /escrita
+    post_list:
+      category: escrita
+      limit: 3
+      show_more: true
+      show_more_text: "[+]"
+      show_more_url: escrita
+
+  - title: Veganismo
+    url: /veganismo
+    post_list:
+      category: veganismo
+      limit: 3
+      show_more: true
+      show_more_text: "[+]"
+      show_more_url: veganismo
+    entries:
+      - title: documentários
+        url: /documentarios
+
+  - title: EngCivil
+    url: /engcivil
+    post_list:
+      category: engcivil
+      limit: 3
+      show_more: true
+      show_more_text: "[+]"
+      show_more_url: engcivil
+
+  - title: rss
+    url: feed.xml
+
+  - title: arquivo
+    url: /arquivo

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<header>
+  <h1>{{ site.title }}</h1>
+  <!-- {% if site.theme_config.show_description %}
+    <p>{{ site.description }}</p>
+  {% endif %} -->
+  <p>um simples sítio duma singela <a href="/sobre">pessoa</a></p>
+
+</header>
+<h4>as últimas coisas que escrevi:</h4>
+{% include menu_item.html collection=site.data.menu.entries %}
+
+{{ content }}

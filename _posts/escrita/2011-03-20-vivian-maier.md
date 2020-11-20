@@ -11,7 +11,10 @@ cover:
   caption:
   style: wide
 ---
+
 ![](/media-escrita/vivian-maier.jpg)
+
+---
 
 [Vivian Maier](http://www.vivianmaierphotography.com/), tem uma história recente. Nasceu em Nova Iorque em plena crise americana, viajou e morou em França e acabou regressada ao local de origem.
 

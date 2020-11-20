@@ -12,6 +12,11 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/portugal.jpg)
+foto: [**Pedro Sousa Filipe**](https://www.flickr.com/photos/pedro-sousa-filipe/8842625616/)
+
+---
+
 O problema não deve ser deles, não deve ser dos governos, das assembleias nem dos deputados.
 O problema nem deve ser do país, dos outros, dos que não trabalham.
 

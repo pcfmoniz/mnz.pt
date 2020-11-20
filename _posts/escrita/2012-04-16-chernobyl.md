@@ -12,6 +12,11 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/chernobyl.jpg)
+foto: [**Gerd Ludwig**](http://www.gerdludwig.com/stories/chernobyl-the-victims/#id=album-12&num=content-51)
+
+---
+
 Quando o governo se põe a espirrar ideias de energia nuclear para Portugal penso sempre no acidente nuclear de Chernobyl, talvez por ter sido naquele mês de Abril de ’86, talvez por ser o maior, até hoje, acidente nuclear a que o mundo assistiu.
 **Talvez por ser essa uma ideia parva e imponderada duma energia que se diz mais barata**.
 

@@ -12,6 +12,10 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/john-baldessari.jpg)
+
+---
+
 Se algum dia, por algum toque de mágica a minha história tiver de ser relatada, lembrem-se que eu gosto da abertura d’**O Fabuloso Destino de Amélie Poulain** de Jean-Pierre Jeunet assim como deste vídeo, muito bom, de [John Baldessari](http://www.baldessari.org/). E chamem a Carmen do Bizet a fazer pandam com o William Teller de Rossini.
 
 <iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/eU7V4GyEuXA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

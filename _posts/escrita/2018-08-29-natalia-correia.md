@@ -11,6 +11,9 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/natalia-correia.jpg)
+
+---
 
 O ano é 1923 e o dia é 13 de Setembro, nascia Natália Correia na Fajã de Baixo, Açores. Nasce açoriana, mas é em Lisboa que faz vida, e por infortúnio da doença, cedo nos deixa, em março de 1993.
 
@@ -26,7 +29,6 @@ Fez parte das vozes que levaram à despenalização do aborto, e em resposta ao 
 ![](/media-escrita/natalia-correia-parlamento.jpg)
 
 
-{{% center %}}
 <i class="fas fa-quote-right" aria-hidden="true"></i>  
 *Já que o coito - diz Morgado -  
 tem como fim cristalino,  
@@ -45,7 +47,6 @@ faz o órgão - diz o ditado -
 consumada essa excepção,  
 ficou capado o Morgado.*  
 <i class="fas fa-quote-right" aria-hidden="true"></i>
-{{% /center %}}
 
 
 
@@ -59,7 +60,7 @@ Sem ninguém contar com a sua visita, a então deputada do partido radical itali
 Sobre tão inesperada visita, Natália escreve:
 
 
-{{% center %}}
+
 <i class="fas fa-quote-right" aria-hidden="true"></i>  
 *Estava o Parlamento em tédio morno  
 Do Processo Penal a lei moendo  
@@ -95,7 +96,7 @@ O olhar parlamentar votado ao bem.
 Da estátua tapem-se as partes vergonhosas.  
 Ponham-lhe cuequinhas e soutiens.»*  
 <i class="fas fa-quote-right" aria-hidden="true"></i>
-{{% /center %}}
+
 
 ---
 

@@ -12,6 +12,11 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/davidhammons.jpg)
+foto: [**rocor**](https://www.flickr.com/photos/rocor/5491203500/)
+
+---
+
 ![David Hammons](/media-escrita/davidhammons1.jpg)
 
 O capitalismo já cá anda “há que anos” e para toda a regra ou lei instituída haverá sempre a contra-regra, a crítica. E ainda bem!David Hammons é americano, nasceu negro em 1943.

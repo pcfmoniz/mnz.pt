@@ -12,6 +12,10 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/berlinde-azul.jpg)
+
+---
+
 Já dizia Albert E. que a energia é igual ao produto da massa pelo quadrado da velocidade da luz no vazio. Isto para introduzir o tema, lixo espacial.
 
 Verdade seja dita, ainda bem que houve a corrida ao espaço, ainda bem que houve Gagarines, [Laikas](http://pt.wikipedia.org/wiki/C%C3%A3es_do_programa_espacial_sovi%C3%A9tico) e Armstrongs com coragem e alguma ignorância a irem lá para cima, para o vazio.

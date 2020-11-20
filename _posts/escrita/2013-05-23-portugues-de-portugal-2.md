@@ -12,6 +12,11 @@ cover:
   style: wide
 ---
 
+  ![](/media-escrita/portugal.jpg)
+  foto: [**Pedro Sousa Filipe**](https://www.flickr.com/photos/pedro-sousa-filipe/8842625616/)
+
+---
+
 Já aqui falei que [Portugal não sofre de maus políticos, Portugal sofre de maus portugueses](/escrita/portugal-2)!
 
 Pois bem, esta **Grande Reportagem** da SIC vem por lado a lado a sociedade civil e política da Dinamarca e Portugal e dar-me um bocadinho de razão.

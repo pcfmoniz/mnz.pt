@@ -11,20 +11,24 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/velhxs-politicxs-diferencial.jpg)
+
+---
+
 Não estarei longe da verdade ao dizer que a forma como nos envolvemos activamente na sociedade, enquanto cidadãos, é a nossa forma individual de fazermos política. Tradicionalmente, seguir carreira com uma cor partidária e almejar aplicar novas leis e fazer aprovar novos projectos tem sido, porventura, o modelo de participação cívica que, do alto do poder, mais consegue mudar toda uma sociedade.
 
 Assim tem sido, é sabido, mas a balança das estatísticas já não pesa por esse caminho. A Presidência da República patrocinou, recentemente, um estudo [^1] demonstrando que **57% dos portugueses entre os 15 e os 24 anos não revelam qualquer interesse na política**, número confirmado pelo relatório de 2018 da OCDE [^2] que coloca Portugal em primeiro lugar na lista de países europeus em que os jovens mostram esse mesmo desinteresse. Em termos mundiais esse valor não é muito diferente[^3] , com 52% dos *millenials* a não se reverem nos sistemas políticos dos seus países.
 
-{{% center %}}
+
 ![](/media-escrita/interesse-jovem-politica-ocde.jpg)
-{{% /center %}}
+
 
 Portanto, tu, jovem *millenial* incompreendido, não estás só neste sentimento de descrença, e as razões são várias. A nossa confiança nos governos e representantes tem caído e a nossa afluência às urnas tem diminuído, isto porque têm falhado os resultados nas políticas públicas que mais nos afectam no imediato – o desemprego e a sua precariedade, por exemplo – e aquelas que num futuro muito próximo nos tocarão – os efeitos das alterações climáticas, as desigualdades sociais, o modelo de financiamento do sistema de pensões. Associada à falta de soluções está, também, a diminuição do número de jovens nas cadeiras do poder português. Na Assembleia Constituinte de 1975 eram 38% os deputados com menos de 35 anos, hoje essa percentagem fica-se pelos 14%. Isto não significa, necessariamente, uma falta de representatividade, mas está a incrementar o hiato geracional e a minar a necessária renovação de ideias e políticas públicas direccionadas aos mais novos.
 
 
-{{% center %}}
+
 ![](/media-escrita/graficojovensAssembleia.png)
-{{% /center %}}
+
 
 
 A verdade é que **nós jovens**, mais ou menos *millenials*, nascidos e educados num ambiente digital cada vez mais desfasado da velha política de gabinete e de eleições quadrienais, **não estamos, de todo, alheados de participação cívica, não estamos à espera que eles façam alguma coisa e não estamos com paciência para esperar que se faça algo**. E se tudo isto não te soa a estranho, então acabas de te rever naquilo que são as novas formas de participação cívica.

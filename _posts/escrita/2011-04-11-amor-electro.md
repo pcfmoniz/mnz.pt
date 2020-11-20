@@ -11,8 +11,11 @@ cover:
   caption: "foto: [**João Bacelar**](http://joaobacelar26.tumblr.com/post/23887954774/marisa-liz-vocalista-dos-amor-electro)"
   style: wide
 ---
+
 ![](/media-escrita/marisa-pinto.jpg)
 foto: [**João Bacelar**](http://joaobacelar26.tumblr.com/post/23887954774/marisa-liz-vocalista-dos-amor-electro)
+
+---
 
 Quando se diz que toda a música já foi feita, já foi inventada, há sempre alguém que aparece e nos surpreende com novas sonoridades. Pegando em letras já ouvidas, mudando os instrumentos, adicionando a sua voz e o seu cunho interpretativo, e já está, cai o Carmo e a Trindade.
 

@@ -11,6 +11,10 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/fear-free.jpg)
+
+---
+
 ### Sábado, 16 de maio de 2020. São 14h05
 
 -- Estou a falar com o senhor Paulo Medeiros?

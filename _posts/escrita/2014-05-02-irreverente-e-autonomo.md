@@ -13,6 +13,10 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/autonomo-e-irreverente.jpg)
+
+---
+
 Se por vezes os portugueses do continente esquecem-se dos portugueses das ilhas, desta vez, e lamentavelmente, os portugueses das ilhas açorianas esqueceram-se dos portugueses do continente.
 
 >Funcionários públicos nos Açores voltam às 35 horas semanais

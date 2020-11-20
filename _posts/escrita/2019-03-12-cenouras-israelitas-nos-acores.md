@@ -11,6 +11,10 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/cenouras-israelitas-nos-acores.jpg)
+
+---
+
 Alimentar 500 milhões de pessoas não é tarefa fácil e é este desafio, numa Europa unificada aos vários ritmos nacionais, que a Política Agrícola Comum (PAC) tenta resolver. Duma forma muito simplificada, esta é a resposta da União Europeia à necessidade de garantir um nível de vida digno a 22 milhões de agricultores e de trabalhadores agrícolas e um abastecimento estável, variado e seguro de produtos alimentares ao conjunto dos 28 países que a compõem. Esta é uma política, sobretudo financeira, que tenta imprimir competitividade e sustentabilidade à agricultura através de pagamentos directos aos agricultores com vista a estabilizar e garantir o rendimento destes. É, também, uma forma de financiar projectos que dêem resposta às especificidades de cada país ou região, através de Programas de Desenvolvimento Rural específicos.
 
 Como a Europa não é um <em>continuum</em> geográfico de países, dela fazem parte, também, as Regiões Ultraperiféricas (RUP). Neste momento são nove, e são regiões integrantes do território de alguns Estados-Membros: Guadalupe, Guiana Francesa, Martinica, Maiote, Reunião e São Martinho, são as integrantes de França; as Canárias, de Espanha; e a Madeira e os Açores, de Portugal. Devido ao afastamento, às suas características geográficas, insularidade, pequena dimensão, topografia difícil e clima, vêem-se confrontadas com dificuldades acrescidas no que à disponibilização de produtos agrícolas (ou mesmo recursos naturais) diz respeito. Portanto, para essas regiões estão disponíveis apoios financeiros específicos europeus (são subvenções), como o FEDER (Fundo Europeu de Desenvolvimento Regional), que pretende a coesão económica e social e colmatação dos desequilíbrios entre regiões, mas também o POSEI (Programa de Opções Específicas para fazer face ao Afastamento e à Insularidade). No caso de Portugal, e para as regiões insulares, há outros programas de apoio, mas é do europeu que irei falar por estar dentro das linhas mestras e objectivos da PAC.

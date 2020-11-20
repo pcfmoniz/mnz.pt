@@ -12,6 +12,11 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/assembleia.jpg)
+foto: [**Philippe Hässig**](https://flic.kr/p/rMahuo)
+
+---
+
 Antes de mais, convém dizer que esta é uma visita que recomendo a toda a gente, pela sua iconicidade, mas sobretudo para se ver como se discute um país, nas suas regras e na criação das suas leis.
 
 ---

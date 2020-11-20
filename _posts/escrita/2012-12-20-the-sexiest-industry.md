@@ -12,6 +12,10 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/sarasampaio.jpg)
+
+---
+
 O título não tem um tom irónico. Português que sabe o que se anda a exportar, sabe que a indústria do calçado tem um peso significativo na balança comercial. Pena nós cá dentro não podermos ou não querermos comprar o que é nosso!
 
 Vou inventar desculpas:

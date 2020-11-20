@@ -12,13 +12,16 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/incineradora_sao_miguel.jpg)
+foto: [**Salvar a ilha**](http://salvarailha.com)
+
+---
+
 Este é apenas um pequeno contributo pessoal resultante duma breve pesquisa em documentação de entidades europeias das áreas ambiental e da gestão de resíduos, e de opiniões e vários textos escritos sobre o tema da incineração como forma de controlo ao lixo doméstico.
 
 ---
 
-{{% center %}}
 ![75% é importante](/media-escrita/75porcento.jpg)
-{{% /center %}}
 
 Após assistir ao programa **Açores 24** [de ontem](http://www.rtp.pt/play/p2110/Acores24) (30.jan.2017), que teve a presença de [Carlos Botelho](https://www.linkedin.com/in/casvab), director técnico da MUSAMI - Operações Municipais do Ambiente, Empresa InterMunicipal, SA, lembrei-me dum gráfico que diz que 75% dos gráficos mostram aquilo que se quer que se veja.
 Cá está ele, é verdade.

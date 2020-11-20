@@ -12,6 +12,10 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/olhos_negros_cover.jpg)
+
+---
+
 Hoje estava com uma música em mente que me foi ensinada há 18 anos, não a entendia bem na altura, era criança de 4ª classe.
 Olhos Negros, escrita por Fernando Faria, faz parte do cancioneiro açoriano, uma espécie de balada que deve ser acompanhado por uma guitarra e uma voz doída, muito doída.
 Porque, no fundo no fundo, os açorianos têm sempre saudades da cor da terra, da voz do mar e do bramir das palavras.

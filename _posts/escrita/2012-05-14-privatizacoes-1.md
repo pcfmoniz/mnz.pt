@@ -12,6 +12,10 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/saramago.jpg)
+
+---
+
 >Privatize-se tudo, privatize-se o mar e o céu, privatize-se a água e o ar, privatize-se a justiça e… a lei, privatize-se a nuvem que passa, privatize-se o sonho, sobretudo se for diurno e de olhos abertos. E finalmente, (…) privatizem-se os Estados, entregue-se por uma vez a exploração deles a empresas privadas, mediante concurso internacional. Aí se encontra a salvação do mundo… e, já agora, **privatize-se também a puta que os pariu a todos.**
 
 **José Saramago, Cadernos de Lanzarote**

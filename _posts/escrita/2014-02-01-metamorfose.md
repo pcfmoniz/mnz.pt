@@ -12,6 +12,9 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/metamorfose.jpg)
+
+---
 
 Primeira leitura do ano, *mea culpa* por só ter lido agora, mas talvez tenha vindo em boa altura, numa espécie de resolução d’ano novo: **Metamorfose** do senhor Kafka.
 

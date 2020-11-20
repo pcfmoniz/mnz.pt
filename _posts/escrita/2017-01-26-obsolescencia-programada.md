@@ -12,6 +12,11 @@ cover:
   style: wide
 ---
 
+![](/media-escrita/obsolescencia.jpg)
+foto: [**Patrik Nygren**](https://www.flickr.com/photos/lattefarsan/17562208771/)
+
+---
+
 Alguma vez se perguntaram porque dura uma lâmpada 1000h? Ou melhor, porque duram todas as lâmpadas de todas as marcas 1000h?
 
 **Cartel**, criado quando ainda não havia isso da ética, dos direitos dos consumidores, e quando (como hoje) o dinheiro é rei e senhor.

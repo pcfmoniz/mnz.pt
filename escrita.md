@@ -1,5 +1,5 @@
 ---
 layout: archive
 which_category: escrita
-title: escrita em geral sem um tema específico
+title: escrita sem um tema específico
 ---

@@ -5,6 +5,9 @@ slug: ig
 ---
 
 
+[![](/media/withdrawthecap.jpg)](https://withdrawthecap.org/pt)
+
+
 [![](/media-escrita/natalia-correia.jpg)](/escrita/natalia-correia/)
 Natália Correia
 

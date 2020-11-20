@@ -23,17 +23,20 @@ entries:
       - title: documentários
         url: /documentarios
 
-  - title: EngCivil
+  - title: engCivil
     url: /engcivil
-    post_list:
-      category: engcivil
-      limit: 3
-      show_more: true
-      show_more_text: "[+]"
-      show_more_url: engcivil
 
-  - title: rss
-    url: feed.xml
+  - title: discos
+    url: /discos
+
+  - title: fotos
+    url: /fotos
 
   - title: arquivo
     url: /arquivo
+
+  - title: contribuir
+    url: /contribuir
+
+  - title: rss
+    url: feed.xml

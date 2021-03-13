@@ -5,7 +5,7 @@ slug: ig
 ---
 
 
-[![](/media/withdrawthecap.jpg)](https://withdrawthecap.org/pt)
+[![](/media/stopam171.jpg)](https://stopam171.com/pt)
 
 
 [![](/media-escrita/natalia-correia.jpg)](/escrita/natalia-correia)

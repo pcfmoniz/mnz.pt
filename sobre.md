@@ -15,3 +15,6 @@ title: sobre
 3. Este é um [sítio estático](https://en.wikipedia.org/wiki/Static_web_page) graças ao poder de geração do [jekyll](https://jekyllrb.com/);
 
 4. Se, de alguma forma, achas que o que leste, encontraste ou descobriste aqui te foi útil, considera [contribuir](/contribuir) com uma pequena quantia monetária para manter este sítio _online_.
+
+5. <div id="wcb" class="carbonbadge"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>

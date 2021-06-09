@@ -16,5 +16,7 @@ title: sobre
 
 4. Se, de alguma forma, achas que o que leste, encontraste ou descobriste aqui te foi útil, considera [contribuir](/contribuir) com uma pequena quantia monetária para manter este sítio _online_.
 
-5. <div id="wcb" class="carbonbadge"></div>
+5. Este é o consumo estimado de CO2 aqui do burgo:
+
+<div id="wcb" class="carbonbadge"></div>
 <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>

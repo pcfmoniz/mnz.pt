@@ -33,3 +33,8 @@ Pois esta selecção musical surge num crescendo de sonoridades, algo tristes, a
 
 
 Este __episódio__ poderá ser encontrado [aqui](https://www.mixcloud.com/pcfmoniz/mais-ligados-mais-desconectados/).
+
+
+### <span style="color: #d23032;">02. </span> Escalenidades<span style="color: #d23032;">*</span>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0KWyFzABhqsHDQcLoobUE5?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>

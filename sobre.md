@@ -10,7 +10,7 @@ title: sobre
 
 1. Eu já tive outros sítios na internet, com outros nomes e outros *dizeres*, mas foram mudando tal como eu; agora este é uma  **espécie de sítio** pessoal;
 
-2. Podes encontrar-me no [Instagram](https://instagram.com/pcfmoniz), [Facebook](https://facebook.com/pcfmoniz) ou [Twitter](https://twitter.com/pcfmoniz). Para falares directamente comigo usa o [Telegram](https://t.me/pcfmoniz).
+2. Podes encontrar-me no [Instagram](https://instagram.com/pcfmoniz), [Facebook](https://facebook.com/pcfmoniz) ou [Twitter](https://twitter.com/pcfmoniz).
 
 3. Este é um [sítio estático](https://en.wikipedia.org/wiki/Static_web_page) graças ao poder de geração do [jekyll](https://jekyllrb.com/);
 

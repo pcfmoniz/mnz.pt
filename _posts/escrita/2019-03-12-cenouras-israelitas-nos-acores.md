@@ -43,4 +43,4 @@ Estes são apenas dois pequenos exemplos do que uma política agrícola europeia
 
 ---
 <i class="fas fa-info" aria-hidden="true" style="color:#c3423f"></i>
-Este artigo faz parte da edição de  Março de 2019 do [Diferencial - Jornal dos Estudantes do Instituto Superior Técnico](http://diferencial.tecnico.ulisboa.pt/) que pode ser lida [aqui](https://diferencial.tecnico.ulisboa.pt/wp-content/uploads/2019/03/A-UE-nao-esta-online.pdf) (.pdf~13MB).
+Este artigo faz parte da edição de  Março de 2019 do [Diferencial - Jornal dos Estudantes do Instituto Superior Técnico](http://diferencial.tecnico.ulisboa.pt/) que pode ser lida [aqui](https://diferencial.tecnico.ulisboa.pt/wp-content/uploads/2019/06/19.diferencial.mar_.2019.pdf) (.pdf~4MB).

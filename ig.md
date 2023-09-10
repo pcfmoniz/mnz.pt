@@ -5,8 +5,8 @@ slug: ig
 ---
 
 
-[![](/media/pbt.jpg)](https://plantbasedtreaty.org/)
-Subscreve tocando na imagem
+[![](/media/pbt.jpg)](https://plantbasedtreaty.org/portugal-action/)
+Envia email ao teu executivo camarário
 
 
 [![](/media-escrita/natalia-correia.jpg)](/escrita/natalia-correia)

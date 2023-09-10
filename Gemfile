@@ -5,3 +5,4 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'jekyll-redirect-from'
 gem 'faraday-retry'
+gem "webrick", "~> 1.8"

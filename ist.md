@@ -13,7 +13,7 @@ comments: false
 - Qualquer coisa é só entrar em [**contacto**](mailto:paulo@moniz.pt).
 
 
-<i class="fa fa-angellist" fa-lg style="color:#ff9900"></i>Se o que descarregaste te foi útil, considera uma [contribuição mínima via **paypal**](https://www.paypal.me/pcfmoniz/1.99eur) por forma a manter o site *online*. Obrigado.
+<i class="fa fa-angellist" fa-lg style="color:#ff9900"></i>Se o que descarregaste te foi útil, considera uma [contribuição mínima via **Revolut**] (https://revolut.me/pcfmoniz) por forma a manter o site *online*. Obrigado.
 
 ## <span style="color: #d23032;">1º ano</span>
 

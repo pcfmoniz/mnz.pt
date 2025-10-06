@@ -40,4 +40,10 @@ Este __episódio__ poderá ser encontrado [aqui](https://www.mixcloud.com/pcfmon
 
 ~ música com expressão de género ~ 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0KWyFzABhqsHDQcLoobUE5?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe
+        src="https://widget.qobuz.com/playlist/34766056?zone=PT-pt"
+        width="100%"
+        height="380"
+      >
+        <p>Your browser does not support iframes.</p>
+      </iframe>
